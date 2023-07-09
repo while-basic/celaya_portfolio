@@ -1,9 +1,9 @@
 {
-  "name": "Chetan",
+  "name": "Christopher Celaya",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chris Celaya - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Chris Celaya - ",
+  "headerTaglineThree": "engineer and devloper",
+  "headerTaglineFour": " based in El Paso, TX.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
@@ -15,12 +15,7 @@
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
-    },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": "https://www.linkedin.com/in/christophercelaya/"
     },
     { "id": "4", "title": "Blog", "link": "https://blog.chris@chriscelaya.xyz/" },
     { "id": "5", "title": "Email", "link": "mailto:hello@chris@chriscelaya.xyz" }
